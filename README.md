@@ -16,14 +16,25 @@ https://algassert.com/quirk
 A drag-and-drop quantum circuit simulator.
 
 Example Circuits
+
 Grover Search
+
 Shor Period Finding
+
 Bell Inequality Test (CHSH)
+
 Quantum Teleportation
+
 Superdense Coding
+
 Delayed Choice Eraser
+
 Symmetry Breaking
+
 Quantum Fourier Transform
+
 Reversible Addition
+
 Magic State Distillation
+
 
