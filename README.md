@@ -13,6 +13,8 @@ Harnessing the unique behavior of quantum physics and applying it to computing, 
 
 https://algassert.com/quirk
 
+https://github.com/Strilanc/Quirk
+
 A drag-and-drop quantum circuit simulator.
 
 Example Circuits
